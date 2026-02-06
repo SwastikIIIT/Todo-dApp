@@ -83,16 +83,11 @@ The project includes a robust testing suite in the `test/` folder.
 - **Mocha** provides the `describe` and `it` structure to organize tests.
 - **Chai** provides the `assert` library to verify blockchain states (e.g., checking if a task's content is correct).
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](issues/).
 
 ## 👨‍💻 Author
 
-Your Name - [@swastik_sharma](https://www.linkedin.com/in/swastik-sharma-943615290)
+Your Name - [SwasTik Sharma](https://www.linkedin.com/in/swastik-sharma-943615290)
 
----
